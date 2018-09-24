@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    mini-private
+                    Mini-Private
                 </div>
 
                 <div class="links">
